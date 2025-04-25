@@ -1,6 +1,6 @@
 ## Hi there 👋,Welcome to Gurleen Singh's Profile
 
-I'm an experienced QA Engineer with a focus on automation testing using Selenium, TestNG, Maven, and API testing.
+With over 3 years of experience delivering high-quality technical support, resolving critical system issues, and contributing to QA processes in Agile teams, I bring a strong foundation in enterprise IT environments along with a passion for reliability and user experience.
 <!--
 **GurleenSingh222/GurleenSingh222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
